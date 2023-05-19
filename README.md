@@ -1,7 +1,7 @@
 # Auv_final_tasks
 
 
->### Task 1 : Making four nodes, two publishers and two subscribers, such that the first publisher and first subscriber are connected through a <topic1> and the second publishser and the second subscriber are connected through a different <topic2>.
+>### Task 1 : Making four nodes, two publishers and two subscribers, such that the first publisher and first subscriber are connected through a topic1 and the second publishser and the second subscriber are connected through a different topic2.
 >> **Package name :** pkg_2  
 >>
 >> **Cpp files:**  
@@ -18,7 +18,7 @@
 >>   * subscriber_node_2  
   
   
->### Task 2 : Making a single node which prompts the user for a name so that different instances of the same node can be run. The node is both a subscriber and a publisher to the same <topic>.  
+>### Task 2 : Making a single node which prompts the user for a name so that different instances of the same node can be run. The node is both a subscriber and a publisher to the same topic.  
 >> **Package name :** pkg_3  
 >>
 >> **Cpp files:**  

@@ -1,7 +1,7 @@
 # Auv_final_tasks
 
 
->### Task 1 : Making four nodes, two publishers and two subscribers, such that the first publisher and first subscriber are connected through a topic1 and the second publishser and the second subscriber are connected through a different topic2.
+>### Task 1 : Making four nodes, two publishers and two subscribers, such that the first publisher and first subscriber are connected through a topic1, and the second publishser and the second subscriber are connected through a different topic2.
 >> **Package name :** pkg_2  
 >>
 >> **Cpp files:**  
